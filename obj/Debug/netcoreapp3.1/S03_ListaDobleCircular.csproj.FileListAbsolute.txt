@@ -1,0 +1,14 @@
+C:\Users\adarh\source\repos\S03_ListaDobleCircular\bin\Debug\netcoreapp3.1\S03_ListaDobleCircular.exe
+C:\Users\adarh\source\repos\S03_ListaDobleCircular\bin\Debug\netcoreapp3.1\S03_ListaDobleCircular.deps.json
+C:\Users\adarh\source\repos\S03_ListaDobleCircular\bin\Debug\netcoreapp3.1\S03_ListaDobleCircular.runtimeconfig.json
+C:\Users\adarh\source\repos\S03_ListaDobleCircular\bin\Debug\netcoreapp3.1\S03_ListaDobleCircular.runtimeconfig.dev.json
+C:\Users\adarh\source\repos\S03_ListaDobleCircular\bin\Debug\netcoreapp3.1\S03_ListaDobleCircular.dll
+C:\Users\adarh\source\repos\S03_ListaDobleCircular\bin\Debug\netcoreapp3.1\S03_ListaDobleCircular.pdb
+C:\Users\adarh\source\repos\S03_ListaDobleCircular\obj\Debug\netcoreapp3.1\S03_ListaDobleCircular.csproj.AssemblyReference.cache
+C:\Users\adarh\source\repos\S03_ListaDobleCircular\obj\Debug\netcoreapp3.1\S03_ListaDobleCircular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adarh\source\repos\S03_ListaDobleCircular\obj\Debug\netcoreapp3.1\S03_ListaDobleCircular.AssemblyInfoInputs.cache
+C:\Users\adarh\source\repos\S03_ListaDobleCircular\obj\Debug\netcoreapp3.1\S03_ListaDobleCircular.AssemblyInfo.cs
+C:\Users\adarh\source\repos\S03_ListaDobleCircular\obj\Debug\netcoreapp3.1\S03_ListaDobleCircular.csproj.CoreCompileInputs.cache
+C:\Users\adarh\source\repos\S03_ListaDobleCircular\obj\Debug\netcoreapp3.1\S03_ListaDobleCircular.dll
+C:\Users\adarh\source\repos\S03_ListaDobleCircular\obj\Debug\netcoreapp3.1\S03_ListaDobleCircular.pdb
+C:\Users\adarh\source\repos\S03_ListaDobleCircular\obj\Debug\netcoreapp3.1\S03_ListaDobleCircular.genruntimeconfig.cache
